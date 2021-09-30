@@ -50,34 +50,50 @@
 
     <main class="form-signin">
         <form>
-            <img class="mb-4" src="images/logo.png" alt="" width="72" height="57">
+            <img class="mb-4" src="images/logo.png" alt="" width="100" height="80">
             <style>
                 .form-control:valid {
                     background-color: #7062C7 !important;
+
 
                 }
             </style>
 
             <div class="form-floating">
-                <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+                <input style="border: 2px solid black !important; border-radius: 20px !important;" type="email"
+                    class="form-control" id="floatingInput" placeholder="name@example.com">
                 <label for="floatingInput">E-post</label>
+                <div class="p-3"></div>
             </div>
             <div class="form-floating">
-                <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+                <input style="border: 2px solid black !important; border-radius: 20px !important;" type="password"
+                    class="form-control" id="floatingPassword" placeholder="Password">
                 <label for="floatingPassword">Parool</label>
+                <div class="p-3"></div>
             </div>
 
-
-            <button class="w-100 btn btn-lg btn-primary" type="submit">Registreeri</button>
+            <style>
+                .btn-primary,
+                .btn-primary:hover,
+                .btn-primary:active,
+                .btn-primary:visited {
+                    background-color: #7062C7;
+                }
+            </style>
+            <button style="border: 2px solid black !important; border-radius: 20px !important;"
+                class="btn btn-primary btn-rounded" type="submit">Registreeri</button>
             <div class="checkbox mb-3">
 
                 <label>
+                    <div class="p-3"></div>
                     <p class="text-muted">
                         <input type="checkbox" value="remember-me"> Jäta mind meelde!
                     </p>
                 </label>
+
             </div>
         </form>
+
     </main>
 
 
