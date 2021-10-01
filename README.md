@@ -73,9 +73,9 @@ Suhtluskanalid: **GitHub**, **Microsoft Teams**.
 -
 
 **Eete**
--
--
--
+- Uute inimestega suhtlemine
+- Bootstrap 
+- Oleksin tahtnud Front-end-i proovida
 
 **Olavi**
 -
