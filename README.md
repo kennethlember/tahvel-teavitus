@@ -78,9 +78,9 @@ Suhtluskanalid: **GitHub**, **Microsoft Teams**.
 - Oleksin tahtnud Front-end-i proovida
 
 **Olavi**
--
--
--
+- Meeskonnatöö ja ülesannete jaotus
+- Post notificationid
+- Ei, olin ülesandega rahul.
 
 **Joonas**
 - Projekti ülesehituse kord
