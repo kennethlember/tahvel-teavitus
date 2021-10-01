@@ -93,9 +93,9 @@ Suhtluskanalid: **GitHub**, **Microsoft Teams**.
 -
 
 **Kenneth**
--
--
--
+- Projektides uuemate inimeste informeerimine ja aitamine, projekti lahti seletamine
+- Õppisin uusi PHP võtteid, eriti huvitav oli veebilehelt info kogumise viis.
+- Oleksin tahtnud võib-olla rohkem abistada ka front-endi meeskonna liikmeid.
 
 **Merlin**
 -
