@@ -11,7 +11,7 @@ error_reporting(E_ALL);
 
   class Sendinblue
   {
-	private $access_key = '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';
+	private $access_key = '';
 
       /**
        * Sendinblue::__construct()
