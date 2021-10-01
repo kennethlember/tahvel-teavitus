@@ -10,7 +10,7 @@
 	**/
 		define('DB_SERVER', 'localhost'); 
 		define('DB_USER', 'shipper_tahvel');  
-		define('DB_PASS', 'CXy[&PfspjB5');  
+		define('DB_PASS', '');  
 		define('DB_DATABASE', 'shipper_tahvel'); 
 
 	/** 
