@@ -1,78 +1,103 @@
 # tahvel-teavitus
 Tahvlis tunniplaanis toimuvate muudatuste järel teavituse saatmine seadmesse.
-### Projektipäevad 3.- 5.veebruar 2021
+### Projektipäevad 30.09.21 - 01.10.2021
 
-## Jututuba - Node Chat keskkonna arendus.
+## Tahvel tunniplaani muutuste teavitused
 
 
 ### Meeskond
 
 
-#### JavaScript
+#### Back-end
 
-- Ralf Heinloo Ta-19
+- Olavi Allik TA-21
 
-- Kevin Reinov TAK-19
+- Kenneth Lember TAK-19
 
-- Kris Kristofer Burk TAK-18
-
-- Risto Siimer TAK-19
-
-
-#### HTML/CSS Figma
+#### Front-end
 
 - Merlin Praks TA-20
 
-- Terje Volke TA-20
+- Kevin Reinov TAK-19
 
-- Kadi Remmelgas-Luka TA-20
+- Helen Reimand TA-21
+
+- Joonas Välja TA-21
+
+- Timo Takkis TA-21
+
+- Eete Rajasalu TA-20
 
 ## Projekti eesmärk
-Luua jututuba. 
+Veebilehelt informatsiooni kogumine, salvestame, andmete uuendamine ja klientidele kuvamine. 
 
 ## Töö käik
 
 ### Kommunikatsioon
-Suhtluskanalid: **Slack**, **Microsoft Teams**.
+Suhtluskanalid: **GitHub**, **Microsoft Teams**.
 
 ### Ülesanded
 **1.päev**
 - Meeskonnaga tutvumine
 - Suhtluskanalite loomine
 - Lähteülesande selgitamine
-- Olemasoleva koodi analüüs
-- Disainilahenduse alustamine
-- Jututoa alustamine
+- Disainilahenduse alustamine ja loomine
+- Veebilehe Vahvel alustamine
+- Andmete kogumine, salvestamine, muutmine ja kuvamine
 
 **2.päev**
-- Disainilahenduse loomine
-- Jututoa ehitamine
-
-**3.päev**
-- Toote ehitamine
-- Esitluse viimistlemine
+- Vigade analüüsimine ja parandamine
+- Esitluse valmistamine ja viimistlemine
 
 ### Projekti disain ja prototüüpimine:
 
-[Figma](https://www.figma.com/file/VSA65V8XmWH5VqQT7F1vd5/Untitled?node-id=0%3A1)
+[Figma](https://www.figma.com/file/VAHEAb5GmQL4mIXl1sAn5q/tahvel-team-library?node-id=0%3A1)
 
+[Vahvel](https://www.shipper.ee/tahvel/)
 
 ### Projekt:
 
 ### Iga tiimi liikme nime ja vastuseid kolmele küsimusele
-- Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
 - Üks pehme oskus, mida õppisin ja endas arendasin
 - Üks tehniline oskus, mida õppisin ja endas arendasin
+- Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
 
-**Terje**
-- olen ülesandega rahul
-- ei tulnud hästi välja, aga õpetamisoskust vast :)
-- tailwind
+**Helen**
+- Meeskonnatöö ja uute inimestega suhtlemine
+- ReadMe faili koostamine
+- Kui ma oleksin osanud, siis oleksin tahtnud veebilehte kirjutada
 
 **Kevin**
-- okay ülesanne
-- Koostöö meeskonnaga
-- Tuletas meelde tailwindi, js statements & inputs & outputs ja redis chat
+- 
+-
+-
 
+**Eete**
+-
+-
+-
 
+**Olavi**
+-
+-
+-
 
+**Joonas**
+-
+-
+-
+
+**Timo**
+-
+-
+-
+
+**Kenneth**
+-
+-
+-
+
+**Merlin**
+-
+-
+-
