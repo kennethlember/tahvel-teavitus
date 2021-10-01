@@ -78,9 +78,9 @@ Suhtluskanalid: **GitHub**, **Microsoft Teams**.
 - Oleksin tahtnud Front-end-i proovida
 
 **Olavi**
--
--
--
+- Meeskonnatöö ja ülesannete jaotus
+- Post notificationid
+- Ei, olin rahul oma ülesandega.
 
 **Joonas**
 -
@@ -95,7 +95,7 @@ Suhtluskanalid: **GitHub**, **Microsoft Teams**.
 **Kenneth**
 - Projektides uuemate inimeste informeerimine ja aitamine, projekti lahti seletamine
 - Õppisin uusi PHP võtteid, eriti huvitav oli veebilehelt info kogumise viis.
-- Oleksin tahtnud võib-olla rohkem abistada ka front-endi meeskonna liikmeid.
+- Oleksin tahtnud võib-olla rohkem abistada ka front-endi meeskonna liikmeid juba viimase kursuse õpilasena.
 
 **Merlin**
 -
