@@ -68,9 +68,9 @@ Suhtluskanalid: **GitHub**, **Microsoft Teams**.
 - Kui ma oleksin osanud, siis oleksin tahtnud veebilehte kirjutada
 
 **Kevin**
-- 
--
--
+- Meeskonnaga suhtlemist  
+- Bootstrap
+- Rohkem koodi
 
 **Eete**
 - Uute inimestega suhtlemine
