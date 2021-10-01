@@ -12,7 +12,7 @@ use sngrl\PhpFirebaseCloudMessaging\Notification;
 
   class Firebase
   {
-	  private $apikey = "AAAAow-ZsiE:APA91bG_Q8t07kZdydi1Px77VZsW38BdocosQLJsO0vTX9uOgCEB8Ia0t3jV7DGhiq8gI6VNIETOm8-Ja8L1rN83xVIwyKlshc9EAAWy8gicFQDWoQKIXdU49-javlrEXY4icyHYuyVs";
+	  private $apikey = "";
 
       /**
        * Firebase::__construct()
